@@ -1,0 +1,2 @@
+1) The bug was missing semi-colons in the calculateSum function and that it takes the input as strings and performs a concatenation instead of an addition operation.
+2) I fixed it by including 'Number' infront of both num1 and num2 to make sure an addition is done and not concatenation.
